@@ -1,0 +1,58 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+body
+{
+	background-image: url("Rem&Ram.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+.btn {
+	border: 1px solid white;
+	padding : 10px 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 13px ;
+	text-decoration: none;
+	font-family: "Roboto", sans-serif;
+	display: inline-block;
+	
+}
+
+.btn1,.btn2{
+	color: #fff;
+
+}
+
+.btn1:hover{
+	color: white ;
+	border: 1px solid black;
+	background-color: #EE90D3 ;
+	transition: all 0.5s ease-in;
+
+}
+
+.btn2:hover{
+	color: white ;
+	border: 1px solid black;
+	background-color: #77ACFE ;
+	transition: all 0.5s ease-in;
+
+
+}
+
+
+
+
+
+
+
+
+

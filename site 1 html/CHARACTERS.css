@@ -1,0 +1,78 @@
+*
+{
+	margin:0;
+    padding: 0;
+
+}
+
+
+body 
+
+{
+	background-image: url("Kasuma.jpg");
+	background-size: cover;
+	background-position: center;
+
+
+}
+
+
+.main-nav 
+{
+	list-style: none;
+	margin-top:255px ;
+	margin-left: 150px;
+
+}
+
+.main-nav li 
+{
+
+	display: inline-block;
+}
+
+
+
+
+.main-nav li a 
+{
+	text-decoration: none;
+	color: yellow;
+	padding: 5px 20px;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+
+}
+
+
+.main-nav li a:hover
+{
+
+	color: black;
+	border: 1px solid black;
+	background-color: #936847;
+	transition: all 0.5s ease-in;
+
+
+
+}
+
+a{
+	text-decoration: none;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	margin-top: 5px;
+	padding: 5px 20px;
+	color: yellow;
+
+
+}
+
+
+
+
+.main-nav li a 
+
+
+
+

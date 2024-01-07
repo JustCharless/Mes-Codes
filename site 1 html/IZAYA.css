@@ -1,0 +1,42 @@
+*
+{
+	margin: 0;
+	padding: 0;
+
+}
+
+body 
+{
+  background-image: url("izaya.jpg");
+  background-size: cover;
+  background-position: center;
+
+
+}
+
+
+.btn {
+	border: 1px solid white;
+	padding : 10px 30px;
+	margin-left: 5px;
+	margin-top: 5px;
+	font-size: 13px ;
+	text-decoration: none;
+	font-family: "Roboto", sans-serif;
+	display: inline-block;
+	
+}
+
+
+.btn1,.btn2{
+	color: #fff;
+
+}
+
+.btn1:hover,.btn2:hover{
+	color: white ;
+	border: 1px solid black;
+	background-color: #4B5582;
+	transition: all 0.5s ease-in;
+
+}

@@ -1,0 +1,57 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+body 
+{
+
+	background-image: url("kurisu.png");
+	background-size: cover;
+	background-position: center
+	background-repeat: no-repeat;
+}
+
+
+.main-nav
+{
+    list-style: none;
+    margin-top: 200px;
+    margin-left: 575px;
+}   
+
+.main-nav li 
+{
+
+	display: inline-block;
+}
+
+
+
+.main-nav li a
+{
+	 text-decoration: none;
+	 color: white;
+	 padding: 5px 20px;
+	 font-family: "Roboto", sans-serif;
+	
+
+}
+
+.main-nav li a:hover
+{
+	color: red;
+    border: 1px solid red;
+    background-color: white;
+    transition: all 0.5s ease-in;
+}
+
+
+
+
+
+
+
+

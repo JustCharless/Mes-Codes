@@ -1,0 +1,5 @@
+from tkintrt import * 
+
+window = Tk()
+window.title("Comptabilisation vente du " +str(Date_écriture))
+window.geometry("600x420")
