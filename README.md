@@ -1,3 +1,3 @@
-# codes simples effectués sur mon temps libre !
+# Ensemble de petit projets effectués !
 
 
