@@ -1,3 +1,3 @@
-# Ensemble de petit projets effectués !
+# Ensemble de petit projets effectués ! (non exhaustif)
 
 
